@@ -1,2 +1,2 @@
-let js = 'sorprendente';
+let js = 'GRACIAS HAS SIDO HAKEADO PELOTUDO DE MRDA FAN DE MESSI';
 alert(js);
